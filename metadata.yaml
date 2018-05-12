@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32854'
     url: http://www.gutenberg.org/2009/agents/32854
 description: Translation of System der volkswirthschaft.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38655#Principles-of-Political-Economy-Vol.-II
 gutenberg_issued: '2012-01-23'
 gutenberg_type: Text
 identifiers:
