@@ -1,0 +1,35 @@
+_repo: Principles-of-Political-Economy-Vol.-II_38655
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lalor, John J. (John Joseph)
+    deathdate: 1899
+    gutenberg_agent_id: '32857'
+    url: http://www.gutenberg.org/2009/agents/32857
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roscher, Wilhelm
+    aliases:
+    - Roscher, William
+    - Roscher, Wilhelm Georg Friedrich
+    birthdate: 1817
+    deathdate: 1894
+    gutenberg_agent_id: '32854'
+    url: http://www.gutenberg.org/2009/agents/32854
+description: Translation of System der volkswirthschaft.
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Economics'
+title: Principles of Political Economy, Vol. 2
+url: http://www.gutenberg.org/ebooks/38655
